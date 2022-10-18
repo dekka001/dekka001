@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dekka001
-- 👀 I’m interested in Network/Cloud and Data Security 
-- 🌱 I’m currently learning Data protection API for cloud apps
 - 📫 How to reach me at findkamal@gmail.com
 
 <!---
